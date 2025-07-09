@@ -1,0 +1,8 @@
+{
+  "name": "Bangla Voice Typing",
+  "description": "An application to type in Bangla using your voice, with easy controls to start, stop, copy, and clear the text.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
